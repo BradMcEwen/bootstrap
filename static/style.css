@@ -1,0 +1,16 @@
+.tech-services > div {
+    background-color: salmon;
+    border-radius: 10px;
+    max-width: 350px;
+    min-width: 250px;
+    min-height: 400px;
+}
+
+.service {
+    height: 250px;
+}
+
+.service > img {
+    height: 100%;
+    width: 100%;
+}
